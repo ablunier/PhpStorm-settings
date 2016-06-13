@@ -53,4 +53,22 @@
       <version-cache version="5.0.0" last-modified="1446304983000" />
     </local-interpreter>
   </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9edfc8df99dfcfdf9edf93df9ddfcbdf92df9ddf9fdfc9df9bdf9fdf9adf9cdfc8dfccdfc9df93df99df9adf93df98df9adf9fdf9cdfcfdf9fdf9ddf9ddf93df98df9edf98dfc9df9bdf9fdf9fdf9b</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="anavallasuiza" />
+      <option name="repoName" value="terra-e-memoria" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
 </application>
