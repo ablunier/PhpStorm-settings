@@ -53,6 +53,9 @@
       <version-cache version="5.0.0" last-modified="1446304983000" />
     </local-interpreter>
   </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+  </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="https://github.com">
       <option name="assignedIssuesOnly" value="false" />
