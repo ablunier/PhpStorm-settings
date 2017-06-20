@@ -23,10 +23,10 @@
   <action id="Diff.UpdatedFiles" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="ctrl altGraph up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl altGraph down" />
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
