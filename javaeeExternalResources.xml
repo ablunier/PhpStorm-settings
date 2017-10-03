@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://schema.phpunit.de/4.1/phpunit.xsd" location="$USER_HOME$/.PhpStorm2017.2/system/extResources/5ddf74fe_phpunit.xsd" />
     <resource url="https://raw.github.com/doctrine/doctrine2/master/doctrine-mapping.xsd" location="$USER_HOME$/.PhpStorm2017.2/system/extResources/b19b7f6b_doctrine-mapping.xsd" />
   </component>
 </application>
