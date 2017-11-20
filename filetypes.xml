@@ -1,0 +1,31 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="create-dir" type="Blade" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="info" type="Ini" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern="deploy" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern="srt-utils" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern="test.txt" type="PLAIN_TEXT" />
+      <mapping pattern="hqv" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="fixture01" type="PLAIN_TEXT" />
+      <mapping pattern="problem-check-g-71b73126" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="FicheroEjemplo" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".phploy" type="PLAIN_TEXT" />
+      <mapping ext="icaa" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
