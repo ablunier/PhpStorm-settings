@@ -19,7 +19,6 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="fixture01" type="PLAIN_TEXT" />
       <mapping pattern="problem-check-g-71b73126" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="FicheroEjemplo" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
