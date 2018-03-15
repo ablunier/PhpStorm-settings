@@ -15,6 +15,7 @@
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="test.txt" type="PLAIN_TEXT" />
       <mapping pattern="hqv" type="PLAIN_TEXT" />
+      <mapping pattern="calendar" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="fixture01" type="PLAIN_TEXT" />
