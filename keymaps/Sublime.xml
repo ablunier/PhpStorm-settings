@@ -1,21 +1,9 @@
 <keymap version="1" name="Sublime" parent="$default">
   <action id="$Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
-  </action>
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="shift delete" />
-    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="$Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
-  </action>
-  <action id="$Redo">
-    <keyboard-shortcut first-keystroke="shift alt back_space" />
-    <keyboard-shortcut first-keystroke="shift meta z" />
-  </action>
-  <action id="$Undo">
-    <keyboard-shortcut first-keystroke="alt back_space" />
-    <keyboard-shortcut first-keystroke="meta z" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="CheckinProject" />
   <action id="CloseContent">
@@ -40,19 +28,19 @@
   <action id="DatabaseView.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
   <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="Editor Cut">
-    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
   <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="meta z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCloneCaretAbove">
@@ -116,7 +104,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Find">
-    <keyboard-shortcut first-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
