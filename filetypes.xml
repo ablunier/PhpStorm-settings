@@ -10,6 +10,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="srt-utils" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="test.txt" type="PLAIN_TEXT" />
