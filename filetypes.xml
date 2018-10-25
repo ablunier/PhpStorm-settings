@@ -17,6 +17,7 @@
       <mapping pattern="hqv" type="PLAIN_TEXT" />
       <mapping pattern="calendar" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="user" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="fixture01" type="PLAIN_TEXT" />
       <mapping pattern="problem-check-g-71b73126" type="PLAIN_TEXT" />
