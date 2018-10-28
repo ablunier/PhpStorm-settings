@@ -1,9 +1,25 @@
 <keymap version="1" name="Sublime" parent="$default">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="CheckinProject" />
   <action id="CloseContent">
@@ -29,18 +45,25 @@
   <action id="Diff.UpdatedFiles" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCloneCaretAbove">
@@ -74,6 +97,7 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="EditorSplitLine">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -136,6 +160,10 @@
   <action id="JumpToLastWindow" />
   <action id="NextOccurence" />
   <action id="ParameterInfo" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
