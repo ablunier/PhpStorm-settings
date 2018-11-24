@@ -215,6 +215,7 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="ViewSource" />
   <action id="hg4idea.push" />
 </keymap>
