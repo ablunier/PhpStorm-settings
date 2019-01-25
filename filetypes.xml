@@ -25,6 +25,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="FicheroEjemplo" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="InteractiveList" type="PLAIN_TEXT" />
       <mapping pattern=".phploy" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="localconfig" type="PLAIN_TEXT" />
