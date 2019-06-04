@@ -21,6 +21,7 @@
       <mapping pattern="user" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="INITIAL" type="PLAIN_TEXT" />
+      <mapping pattern="INTER548" type="PLAIN_TEXT" />
       <mapping pattern="fixture01" type="PLAIN_TEXT" />
       <mapping pattern="problem-check-g-71b73126" type="PLAIN_TEXT" />
       <mapping pattern="INTER000" type="PLAIN_TEXT" />
