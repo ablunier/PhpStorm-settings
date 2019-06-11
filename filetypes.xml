@@ -13,6 +13,7 @@
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="srt-utils" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="test.txt" type="PLAIN_TEXT" />
       <mapping pattern="hqv" type="PLAIN_TEXT" />
@@ -20,18 +21,18 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="user" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="INITIAL" type="PLAIN_TEXT" />
       <mapping pattern="INTER548" type="PLAIN_TEXT" />
       <mapping pattern="fixture01" type="PLAIN_TEXT" />
       <mapping pattern="problem-check-g-71b73126" type="PLAIN_TEXT" />
       <mapping pattern="INTER000" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="INITIAL" type="PLAIN_TEXT" />
       <mapping pattern="FicheroEjemplo" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="InteractiveList" type="PLAIN_TEXT" />
       <mapping pattern=".phploy" type="PLAIN_TEXT" />
       <mapping pattern="_mixins" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="localconfig" type="PLAIN_TEXT" />
