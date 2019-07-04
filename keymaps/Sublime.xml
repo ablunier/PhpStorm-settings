@@ -26,6 +26,7 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow" />
   <action id="AutoIndentLines" />
   <action id="CheckinProject" />
