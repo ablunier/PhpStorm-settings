@@ -12,6 +12,7 @@
       <mapping ext="install" type="PHP" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="parte-20190827-113038" type="PLAIN_TEXT" />
       <mapping pattern="srt-utils" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="test.txt" type="PLAIN_TEXT" />
@@ -20,6 +21,7 @@
       <mapping pattern="parte-20190827-110433" type="PLAIN_TEXT" />
       <mapping pattern="calendar" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="parte-20190827-112407" type="PLAIN_TEXT" />
       <mapping pattern="user" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="INITIAL" type="PLAIN_TEXT" />
