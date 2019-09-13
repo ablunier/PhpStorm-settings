@@ -32,7 +32,6 @@
       <mapping pattern="fixture01" type="PLAIN_TEXT" />
       <mapping pattern="problem-check-g-71b73126" type="PLAIN_TEXT" />
       <mapping pattern="INTER000" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="parte-20190827-110157" type="PLAIN_TEXT" />
       <mapping pattern="parte-20190827-101717" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
