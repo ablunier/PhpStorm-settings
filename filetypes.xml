@@ -15,7 +15,6 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="parte-20190827-113038" type="PLAIN_TEXT" />
       <mapping pattern="srt-utils" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="test.txt" type="PLAIN_TEXT" />
       <mapping pattern="hqv" type="PLAIN_TEXT" />
@@ -26,6 +25,7 @@
       <mapping pattern="parte-20190827-112407" type="PLAIN_TEXT" />
       <mapping pattern="user" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="INITIAL" type="PLAIN_TEXT" />
       <mapping pattern="INTER548" type="PLAIN_TEXT" />
       <mapping pattern="parte-20190827-110530" type="PLAIN_TEXT" />
       <mapping pattern="fixture01" type="PLAIN_TEXT" />
@@ -34,7 +34,7 @@
       <mapping pattern="parte-20190827-110157" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="parte-20190827-101717" type="PLAIN_TEXT" />
-      <mapping pattern="INITIAL" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="FicheroEjemplo" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="InteractiveList" type="PLAIN_TEXT" />
