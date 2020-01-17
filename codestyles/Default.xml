@@ -1,5 +1,5 @@
 <code_scheme name="Default" version="173">
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
   </JSCodeStyleSettings>
@@ -14,6 +14,11 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
