@@ -74,6 +74,10 @@
           <option name="url" value="des-atic-usc-es@vs-ssh.visualstudio.com:v3/des-atic-usc-es/WEB%20-%20Sitio%20principal%20da%20USC/estrutura_e_desenho" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:numaxlab/medicusmundi.es.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/code" />
