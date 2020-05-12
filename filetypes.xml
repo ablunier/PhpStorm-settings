@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="info" type="Ini" />
       <mapping pattern="test_signed_mail" type="PLAIN_TEXT" />
       <mapping ext="vmdk" type="PLAIN_TEXT" />
       <mapping ext="pkr" type="PLAIN_TEXT" />
