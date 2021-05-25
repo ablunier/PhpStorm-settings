@@ -9,6 +9,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".exclude" type="PLAIN_TEXT" />
       <mapping pattern="INTER053" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="test_signed_mail" type="PLAIN_TEXT" />
       <mapping ext="vmdk" type="PLAIN_TEXT" />
