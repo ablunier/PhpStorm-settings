@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b4fe26ee-bc05-4500-a52d-2ca06e7708dc" name="Dinahosting" url="http://somospandeireteiras.gal">
+        <fileTransfer rootFolder="/www" accessType="FTPS" host="somospandeireteiras-gal.espacioseguro.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
