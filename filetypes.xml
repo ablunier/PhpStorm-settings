@@ -14,6 +14,7 @@
       <mapping pattern="test_signed_mail" type="PLAIN_TEXT" />
       <mapping ext="vmdk" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="localconfig" type="PLAIN_TEXT" />
       <mapping ext="pkr" type="PLAIN_TEXT" />
       <removed_mapping ext="scss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
