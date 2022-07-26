@@ -20,7 +20,6 @@
       <mapping ext="pkr" type="PLAIN_TEXT" />
       <mapping ext="h5p" type="PLAIN_TEXT" />
       <removed_mapping ext="scss" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="scss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
