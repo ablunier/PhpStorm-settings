@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="890db461-cb4a-4da6-acb7-3aed42c3b00d" name="Homestead" url="http://marcialdeladalid.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
